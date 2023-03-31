@@ -3,7 +3,7 @@
 <div id="header" align="center">
     <h1 align="center">ItsVilata GitHub</h1>
     <h3>Su</h3>
-    [<img alt="Twitch Status" src="https://img.shields.io/twitch/status/itsvilalta?label=ItsVilalta">](https://img.shields.io/github/followers/ItsVilalta?color=%23B902F2&label=Folowers&style=plastic)
+   <img alt="GitHub followers" src="https://img.shields.io/github/followers/ItsVilalta?color=%23B902F2&label=Folowers&style=plastic">
 </div>
 
 - 🔭 I’m currently working on ...
