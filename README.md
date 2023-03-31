@@ -4,9 +4,11 @@
     <h1 align="center">ItsVilata GitHub</h1>
     <h3></h3>
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ItsVilalta?color=%23B902F2&label=Folowers&style=plastic">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ItsVilalta"/></a>
 </div>
 
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ItsVilalta"/></a>
+</p>
 
 
 - 🔭 I’m currently working on ...
