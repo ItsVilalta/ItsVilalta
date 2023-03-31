@@ -5,7 +5,7 @@
     <h3></h3>
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ItsVilalta?color=%23B902F2&label=Folowers&style=plastic">
 </div>
-
+<br>
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ItsVilalta&theme=dark&locale=es"/></a>
 </p>
