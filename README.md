@@ -13,5 +13,5 @@
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning DAW
-- 🤔 I’m looking for help with ALL XD
+- 🤔 I need help with ALL XD
 
