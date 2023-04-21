@@ -15,4 +15,4 @@
 - 🌱 I’m currently learning DAW
 - 🤔 I need help with ALL XD
 
-[![ItsVilalta GitHub stats](https://github-readme-stats.vercel.app/api?username=itsvilalta&theme=highcontrast)](https://github.com/ItsVilalta)
+[![ItsVilalta GitHub stats](https://github-readme-stats.vercel.app/api?username=itsvilalta&theme=dracula)](https://github.com/ItsVilalta)
