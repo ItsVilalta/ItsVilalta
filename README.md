@@ -13,6 +13,6 @@
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning DAW
-- 🤔 I need help with ALL XD
+- 🤔 I need help with ...
 
 [![ItsVilalta GitHub stats](https://github-readme-stats.vercel.app/api?username=itsvilalta&theme=dracula)](https://github.com/ItsVilalta)
