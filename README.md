@@ -11,7 +11,7 @@
 </p>
 
 
-- 🔭 I’m currently working on Python Project of a Restaurant
+- 🔭 I’m currently working on Síntesi Project
 - 🌱 I’m currently learning DAW
 - 🤔 I need help with ...
 
